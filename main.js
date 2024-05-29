@@ -1,6 +1,2 @@
-// sigo ganando puntos
+// sigo ganando puntos - esto es mas prolijo, igual es una prueba.
 
-//dddsd
-ddsw
-
-sss
